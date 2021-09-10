@@ -6,8 +6,6 @@ A avaliação será realizada por meio de testes automatizados. Os casos de test
 
 Para executar os casos de teste através do Android Studio, clique com o botão direito sobre a classe `CorrecaoTest` e escolha a opção `Run 'CorrecaoTest'`. Aguarde o final da execução.
 
-A entrega dos exercícios será feita através do [GitHub Classroom](https://classroom.github.com/) (não confundir com Google Classroom). Confira abaixo o link para a página do exercício no GitHub Classroom, que inclui informações como o prazo de entrega.
-
 Você precisará usar o sistema de controle de versão Git para submeter o seu código como resposta dos exercícios.
 
 ## ESPECIFICAÇÃO
